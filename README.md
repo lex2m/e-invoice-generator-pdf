@@ -1,5 +1,5 @@
 <h1 align="center">PDF E-invoice Generator 🚀 </h1>
-<h2 align="center">This is the code to create e-invoice pdfi with PHP. 🌕 </h2>
+<h2 align="center">This is the code to create e-invoice PDF with PHP. 🌕 </h2>
 
 - ✨ This sample was made with <a href="https://[examp.com](http://www.fpdf.org)http://www.fpdf.org">FPDF</a>.
 - 🎀 It is an example of e-invoice.
