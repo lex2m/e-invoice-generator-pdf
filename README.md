@@ -19,7 +19,14 @@ or you can include the following in your composer.json file:
     }
 }
 ```
-<h5 style="" >Have a nice day!</h6>
+chart:
+```mermaid
+graph LR
+A((FPDF)) 
+A --> C(Coding FPDF)
+B(HTML & CSS) --> D{E-Invoice PDF}
+C --> D
+```
 
 ## Authors
 
